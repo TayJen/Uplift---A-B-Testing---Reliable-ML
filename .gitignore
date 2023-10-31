@@ -1,0 +1,15 @@
+# Lectures
+lectures/
+Uplift.pdf
+
+# Data
+data/
+
+# Venv, env, .venv
+venv/
+.venv/
+env
+
+
+
+
