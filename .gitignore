@@ -1,6 +1,7 @@
 # Lectures
 lectures/
 Uplift.pdf
+ab_lectures/
 
 # Data
 data/
@@ -10,6 +11,6 @@ venv/
 .venv/
 env
 
-
+.vscode
 
 
