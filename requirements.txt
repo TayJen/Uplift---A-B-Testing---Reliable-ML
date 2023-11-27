@@ -14,7 +14,10 @@ xgboost==2.0.1
 lightgbm==4.1.0
 shap==0.43.0
 scikit-uplift==0.5.1
+
+# statistic
 scipy==1.11.4
+statsmodels==0.14.0
 
 # additional
 tqdm==4.66.1
