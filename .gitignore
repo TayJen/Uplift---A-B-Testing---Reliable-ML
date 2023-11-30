@@ -6,6 +6,7 @@ ab_lectures/
 # Data
 data/
 *.zip
+*.csv
 
 # Venv, env, .venv
 venv/
